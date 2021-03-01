@@ -24,3 +24,15 @@ Last 2 years I worked as a freelancer in creating sites and setting up an advert
 - MySQL, PostgresQL
 - Java 8+, Spring,
 - Angular 9, Angular Material
+
+### Work History
+- SELF EMPLOYED   
+Freelancer Apr 2017 - Now
+- INDIVIDUAL ENTREPRENEUR  
+Business in sales 2015 - 2017
+- INSURANCE AGENT  
+Belrossrah Jul 2011 - Apr 2015
+
+### Education
+- BELARUSSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS   
+Master’s Degree | Sep 2003 - Jun 2007
