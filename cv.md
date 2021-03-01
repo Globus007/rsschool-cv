@@ -36,3 +36,14 @@ Belrossrah Jul 2011 - Apr 2015
 ### Education
 - BELARUSSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS   
 Master’s Degree | Sep 2003 - Jun 2007
+
+
+### Projects
+- [1ILLUMINATION.RU](https://1illumination.ru)   
+Used technologies: Gulp 4, SCSS, JS   
+Github: https://github.com/Globus007/1illumination.ru   
+- [DEBT COUNTER](https://debt-count.herokuapp.com)   
+Used technologies:   
+Backend - Java 14, Spring Boot, REST   
+Frontend - Angular 9, Angular Material, SCSS, Bootstrap    
+Github: https://github.com/Globus007/debt-calculator-frontend
