@@ -15,3 +15,12 @@ Minsk, Belarus
 English B1+
 
 ---
+
+### Personal Summary
+Last 2 years I worked as a freelancer in creating sites and setting up an advertisements
+
+### Core Skills
+- HTML, CSS, SCSS, JQuery, Bootstrap, Gulp Git, Maven, Jenkins, Postman
+- MySQL, PostgresQL
+- Java 8+, Spring,
+- Angular 9, Angular Material
