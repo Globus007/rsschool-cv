@@ -4,7 +4,6 @@ $gray: #7d7d79;
 
 @import "fio";
 @import "contacts";
-@import "info";
 @import "article";
 
 html {
@@ -13,13 +12,17 @@ html {
   font-size: 12px;
 }
 
-main {
+.container {
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
   margin-top: 30px;
 
   display: flex;
+}
+
+main {
+  margin-left: 45px;
 }
 
 aside {
