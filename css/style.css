@@ -41,6 +41,7 @@
   margin: 0 auto;
   padding-top: 10px;
   font-weight: 600;
+  font-size: 1rem;
   text-transform: uppercase;
   color: white;
   text-align: center;
@@ -106,7 +107,7 @@
   bottom: -4px;
   z-index: -1;
   display: block;
-  width: 484px;
+  width: 92%;
   height: 1px;
   background-color: #353635;
 }
@@ -150,7 +151,7 @@
 
 .article__date {
   position: absolute;
-  right: 0;
+  right: 10px;
   display: inline;
 }
 
@@ -175,12 +176,32 @@ html {
   display: flex;
 }
 
+@media (max-width: 480px) {
+  .container {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+}
+
 main {
   margin-left: 45px;
+  margin-top: 30px;
+}
+
+@media (max-width: 480px) {
+  main {
+    width: 100%;
+  }
 }
 
 aside {
   width: 250px;
+}
+
+@media (max-width: 480px) {
+  aside {
+    width: 100%;
+  }
 }
 
 a {

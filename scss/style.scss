@@ -1,6 +1,7 @@
 $black: #353635;
 $pink: #f4c6bd;
 $gray: #7d7d79;
+$mobile: 480px;
 
 @import "fio";
 @import "contacts";
@@ -19,14 +20,27 @@ html {
   margin-top: 30px;
 
   display: flex;
+
+  @media (max-width: $mobile) {
+    flex-wrap: wrap;
+  }
 }
 
 main {
   margin-left: 45px;
+  margin-top: 30px;
+
+  @media (max-width: $mobile) {
+    width: 100%;
+  }
 }
 
 aside {
   width: 250px;
+
+  @media (max-width: $mobile) {
+    width: 100%;
+  }
 }
 
 a {
@@ -36,4 +50,7 @@ a {
   &:hover {
     text-decoration: underline;
   }
+}
+
+footer {
 }
