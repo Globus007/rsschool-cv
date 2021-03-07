@@ -1,5 +1,36 @@
+$black: #353635;
+$pink: #f4c6bd;
+$gray: #7d7d79;
+
+@import "fio";
+@import "contacts";
+@import "info";
+@import "article";
+
+html {
+  font-family: "Montserrat", sans-serif;
+  color: $black;
+  font-size: 12px;
+}
+
 main {
-  max-width: 1012px;
+  max-width: 800px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 30px;
+
+  display: flex;
+}
+
+aside {
+  width: 250px;
+}
+
+a {
+  color: $black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
