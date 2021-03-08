@@ -6,6 +6,7 @@ $mobile: 480px;
 @import "fio";
 @import "contacts";
 @import "article";
+@import "footer";
 
 html {
   font-family: "Montserrat", sans-serif;
@@ -50,7 +51,4 @@ a {
   &:hover {
     text-decoration: underline;
   }
-}
-
-footer {
 }
